@@ -1,3 +1,4 @@
 # DSA
-this is DSA repository.
-author- praveen kumar
+This is DSA repository.
+<br>
+Author- Praveen Kumar
